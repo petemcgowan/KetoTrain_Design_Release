@@ -1,3 +1,5 @@
 /.DS_Store
 /KetoTrain_Design_Release.code-workspace
 *.DS_Store*
+*DS_Store
+/design/*.DS_Store
